@@ -1,0 +1,14 @@
+requests
+pypdf
+langchain-core
+langchain-community
+langchain-graphrag
+langchain-text-splitters
+pandas
+networkx
+leidenalg
+python-igraph
+transformers
+torch
+accelerate
+cdlib
